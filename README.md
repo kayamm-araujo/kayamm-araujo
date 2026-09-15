@@ -1,9 +1,9 @@
 ## Olá! 👋 Eu sou Caiã
-🎓 Estudante de Engenharia de Software
-💻 Atualmente estudando Java, HTML, CSS e Banco de Dados
-🚀 Tenho interesse em desenvolvimento back-end, especialmente com Java
-📚 Construindo minha base em programação, POO, SQL e modelagem de dados
-🔨 Sempre buscando transformar o que estudo em projetos práticos
+🎓 Estudante de Engenharia de Software <br>
+💻 Atualmente estudando Java, HTML, CSS e Banco de Dados <br>
+🚀 Tenho interesse em desenvolvimento back-end, especialmente com Java <br>
+📚 Construindo minha base em programação, POO, SQL e modelagem de dados <br>
+🔨 Sempre buscando transformar o que estudo em projetos práticos <br>
 
 🛠️ Atualmente estudando
 ☕ Java

@@ -11,5 +11,5 @@
 - 🗄️ SQL e Modelagem de Banco de Dados <br>
 - 🧠 Lógica de Programação e POO <br>
 - 🔧 Git & GitHub <br>
-- 🎯 Objetivo <br>
+🎯 Objetivo <br>
 Construir uma base sólida em desenvolvimento de software, evoluindo gradualmente para projetos maiores e, futuramente, desenvolvimento back-end com Java. <br>

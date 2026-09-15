@@ -5,7 +5,7 @@
 📚 Construindo minha base em programação, POO, SQL e modelagem de dados <br>
 🔨 Sempre buscando transformar o que estudo em projetos práticos <br>
 
-- 🛠️ Atualmente estudando <br>
+🛠️ Atualmente estudando <br>
 - ☕ Java <br>
 - 🌐 HTML & CSS <br>
 - 🗄️ SQL e Modelagem de Banco de Dados <br>
